@@ -1,0 +1,21 @@
+# Backend
+backend/.env
+backend/vendor/
+backend/node_modules/
+backend/storage/logs/
+backend/storage/app/public/
+backend/bootstrap/cache/
+backend/*.lock
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.swp
